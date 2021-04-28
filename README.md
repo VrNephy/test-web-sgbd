@@ -8,7 +8,7 @@
                                                         Les Brancodeurs, Lucas PISANO & Alexandre ALLEAUME
                                                         
                                                         
-                                                        lucas                                   pisano
+                                                        lucas                                   Alexandre
                                                                                  |
                                           Gestion de la base de données          |           Mise en page rendu du site
                                                                                  |
