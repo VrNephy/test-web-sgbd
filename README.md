@@ -44,6 +44,10 @@ L'utilisateur peut par la suite sélectionner un continent et avoir accès aux d
 Si l'utilisateur est un admin, alors la colonne "action" apparait. L'utilisateur peut cliquer sur "edit".
 ![tableau admin](https://user-images.githubusercontent.com/77196492/116005943-83bc3c00-a609-11eb-8fb7-1d47325b32c9.PNG)
 
+Globalement on a progresser difficilement mais nous avons surmonté chaque obstacles. Je (lucas) me suis occupé de ce qu'il y a dérière le site internet (fonctionnement) 
+la totalité de ces taches étaient faisablent aisément a l'aide des cours que nous avons effectués tout au long de l'année. Quant a alexandre, il a apporté une certaine
+expériance en ce qui concerne l'aspect esthétique du site internet. De plus, a chaque fois que j'étais bloqués sur l'une des taches fonctionnelles du site, il était toujours présent pour m'aider.
+
 
 
 
