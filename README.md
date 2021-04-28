@@ -10,13 +10,13 @@
                                                         
                                                         lucas                                   Alexandre
                                                                                  |
-                                          Gestion de la base de données          |           Mise en page rendu du site
+                                          Gestion de la base de données          |       Mise en page rendu du site
                                                                                  |
                                                                                  |
-                                                     compte                      |           rendu du site
+                                                   compte/connexion              |            rendu du site
                                                                                  |
                                                                                  |
-                                                    connexion                    |
+                                              aspect fonctionnel du site         |           aide lucas si besoin
                                                                                  |
                                                                                  |
 
