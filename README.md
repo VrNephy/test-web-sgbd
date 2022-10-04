@@ -5,20 +5,20 @@
                                                                            Compte rendu
 
 
-                                                                         Les Brancodeurs
+                                                                    Les Brancodeurs
                                                         
                                                         
                                                                                          
-                                                                                 |
-                                          Gestion de la base de données          |       Mise en page rendu du site
-                                                                                 |
-                                                                                 |
-                                                   compte/connexion              |            rendu du site
-                                                                                 |
-                                                                                 |
-                                              aspect fonctionnel du site         |           aide lucas si besoin
-                                                                                 |
-                                                                                 |
+                                                                           |
+                                    Gestion de la base de données          |       Mise en page rendu du site
+                                                                           |
+                                                                           |
+                                             compte/connexion              |            rendu du site
+                                                                           |
+                                                                           |
+                                        aspect fonctionnel du site         |           aide lucas si besoin
+                                                                           |
+                                                                           |
 
 
 Nous avons rencontré des problèmes sur presque chaque étape mis appart le rendu du site. Mais après quelques recherches, nous ne sommes pas restés bloqués très longtemps.
