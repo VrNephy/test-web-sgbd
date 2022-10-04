@@ -5,10 +5,10 @@
                                                                            Compte rendu
 
 
-                                                        Les Brancodeurs, Lucas PISANO & Alexandre ALLEAUME
+                                                                         Les Brancodeurs
                                                         
                                                         
-                                                        lucas                                   Alexandre
+                                                                                         
                                                                                  |
                                           Gestion de la base de données          |       Mise en page rendu du site
                                                                                  |
